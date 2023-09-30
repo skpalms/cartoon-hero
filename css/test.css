@@ -1,0 +1,23 @@
+body{
+	background-color: lightskyblue;
+}
+
+h1{
+	color: lightpink; font-family: Arial;
+}
+
+h2{
+	color: fuchsia; font-style: italic; font-family: Helvetica;
+}
+
+.small{
+	font-style: normal; font-size: 15px; font-family: Courier;
+}
+
+#first{
+	color: teal;
+}
+
+span{
+	text-decoration: underline; color: mintcream;
+}
